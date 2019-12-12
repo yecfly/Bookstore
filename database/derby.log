@@ -1,0 +1,26 @@
+Thu Jun 06 11:23:06 CST 2013 : Apache Derby 网络服务器 － 10.8.1.2 - (1095077) 已启动并准备接受端口 1527 上的连接
+----------------------------------------------------------------
+Thu Jun 06 11:23:06 CST 2013:
+ 正在使用类加载器 sun.misc.Launcher$AppClassLoader@fb56b1 引导数据库
+目录 C:\BS\database\bookstoredb  中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077) 实例 a816c00e-013f-1782-5a54-0000349964a1
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_21-b11
+user.dir=F:\Program Files\glassfish-3.1.2.2\javadb
+derby.system.home=C:\BS\database
+数据库类装入器已启动 － derby.database.classpath=“”
+----------------------------------------------------------------
+Thu Jun 06 11:23:11 CST 2013:
+ 正在使用类加载器 sun.misc.Launcher$AppClassLoader@fb56b1 引导数据库
+目录 C:\BS\database\creditcarddb  中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077) 实例 6074401f-013f-1782-5a54-0000349964a1
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_21-b11
+user.dir=F:\Program Files\glassfish-3.1.2.2\javadb
+derby.system.home=C:\BS\database
+数据库类装入器已启动 － derby.database.classpath=“”
+----------------------------------------------------------------
+Thu Jun 06 13:20:11 CST 2013: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Jun 06 13:20:11 CST 2013:
+正在使用类加载器 C:\BS\database\creditcarddb 关闭实例 6074401f-013f-1782-5a54-0000349964a1 
